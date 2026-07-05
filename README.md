@@ -1,3 +1,4 @@
+> **🚨 DEPRECATED 🚨**<br> This is a legacy version of the Nota Language. The New Nota is written in Go, and hosted at: https://github.com/pouyakary/nota
 
 # Nota Language
 
